@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/YN-RandomNumber/static/css/main.81d91460.chunk.css",
-    "main.js": "/YN-RandomNumber/static/js/main.e4203130.chunk.js",
-    "main.js.map": "/YN-RandomNumber/static/js/main.e4203130.chunk.js.map",
+    "main.js": "/YN-RandomNumber/static/js/main.1c761328.chunk.js",
+    "main.js.map": "/YN-RandomNumber/static/js/main.1c761328.chunk.js.map",
     "runtime-main.js": "/YN-RandomNumber/static/js/runtime-main.8895ac71.js",
     "runtime-main.js.map": "/YN-RandomNumber/static/js/runtime-main.8895ac71.js.map",
     "static/js/2.4410fe19.chunk.js": "/YN-RandomNumber/static/js/2.4410fe19.chunk.js",
     "static/js/2.4410fe19.chunk.js.map": "/YN-RandomNumber/static/js/2.4410fe19.chunk.js.map",
     "index.html": "/YN-RandomNumber/index.html",
-    "precache-manifest.ddc2803cc74be486f783d7bc811dd9fd.js": "/YN-RandomNumber/precache-manifest.ddc2803cc74be486f783d7bc811dd9fd.js",
+    "precache-manifest.e585ed4a6940776a484ad2caa61fda28.js": "/YN-RandomNumber/precache-manifest.e585ed4a6940776a484ad2caa61fda28.js",
     "service-worker.js": "/YN-RandomNumber/service-worker.js",
     "static/css/main.81d91460.chunk.css.map": "/YN-RandomNumber/static/css/main.81d91460.chunk.css.map",
     "static/js/2.4410fe19.chunk.js.LICENSE.txt": "/YN-RandomNumber/static/js/2.4410fe19.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.8895ac71.js",
     "static/js/2.4410fe19.chunk.js",
     "static/css/main.81d91460.chunk.css",
-    "static/js/main.e4203130.chunk.js"
+    "static/js/main.1c761328.chunk.js"
   ]
 }
