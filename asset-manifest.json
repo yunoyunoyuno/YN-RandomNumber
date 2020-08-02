@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/yunoyunoyuno/randomgame/static/css/main.9485cea0.chunk.css",
-    "main.js": "/yunoyunoyuno/randomgame/static/js/main.831b5ab3.chunk.js",
-    "main.js.map": "/yunoyunoyuno/randomgame/static/js/main.831b5ab3.chunk.js.map",
-    "runtime-main.js": "/yunoyunoyuno/randomgame/static/js/runtime-main.afb3fdfc.js",
-    "runtime-main.js.map": "/yunoyunoyuno/randomgame/static/js/runtime-main.afb3fdfc.js.map",
-    "static/js/2.4410fe19.chunk.js": "/yunoyunoyuno/randomgame/static/js/2.4410fe19.chunk.js",
-    "static/js/2.4410fe19.chunk.js.map": "/yunoyunoyuno/randomgame/static/js/2.4410fe19.chunk.js.map",
-    "index.html": "/yunoyunoyuno/randomgame/index.html",
-    "precache-manifest.83c5803d43d9e2fa42075d3c9956092a.js": "/yunoyunoyuno/randomgame/precache-manifest.83c5803d43d9e2fa42075d3c9956092a.js",
-    "service-worker.js": "/yunoyunoyuno/randomgame/service-worker.js",
-    "static/css/main.9485cea0.chunk.css.map": "/yunoyunoyuno/randomgame/static/css/main.9485cea0.chunk.css.map",
-    "static/js/2.4410fe19.chunk.js.LICENSE.txt": "/yunoyunoyuno/randomgame/static/js/2.4410fe19.chunk.js.LICENSE.txt",
-    "static/media/Math.png": "/yunoyunoyuno/randomgame/static/media/Math.19ad2786.png"
+    "main.css": "/YN-RandomNumber/static/css/main.9485cea0.chunk.css",
+    "main.js": "/YN-RandomNumber/static/js/main.7098cb60.chunk.js",
+    "main.js.map": "/YN-RandomNumber/static/js/main.7098cb60.chunk.js.map",
+    "runtime-main.js": "/YN-RandomNumber/static/js/runtime-main.8895ac71.js",
+    "runtime-main.js.map": "/YN-RandomNumber/static/js/runtime-main.8895ac71.js.map",
+    "static/js/2.4410fe19.chunk.js": "/YN-RandomNumber/static/js/2.4410fe19.chunk.js",
+    "static/js/2.4410fe19.chunk.js.map": "/YN-RandomNumber/static/js/2.4410fe19.chunk.js.map",
+    "index.html": "/YN-RandomNumber/index.html",
+    "precache-manifest.a2708f5f3ba87d462a23cb13dc77109a.js": "/YN-RandomNumber/precache-manifest.a2708f5f3ba87d462a23cb13dc77109a.js",
+    "service-worker.js": "/YN-RandomNumber/service-worker.js",
+    "static/css/main.9485cea0.chunk.css.map": "/YN-RandomNumber/static/css/main.9485cea0.chunk.css.map",
+    "static/js/2.4410fe19.chunk.js.LICENSE.txt": "/YN-RandomNumber/static/js/2.4410fe19.chunk.js.LICENSE.txt",
+    "static/media/Math.png": "/YN-RandomNumber/static/media/Math.19ad2786.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.afb3fdfc.js",
+    "static/js/runtime-main.8895ac71.js",
     "static/js/2.4410fe19.chunk.js",
     "static/css/main.9485cea0.chunk.css",
-    "static/js/main.831b5ab3.chunk.js"
+    "static/js/main.7098cb60.chunk.js"
   ]
 }
