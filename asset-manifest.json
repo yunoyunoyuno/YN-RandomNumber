@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/YN-RandomNumber/static/css/main.ebf87862.chunk.css",
+    "main.js": "/YN-RandomNumber/static/js/main.ada98ccd.chunk.js",
+    "main.js.map": "/YN-RandomNumber/static/js/main.ada98ccd.chunk.js.map",
+    "runtime-main.js": "/YN-RandomNumber/static/js/runtime-main.8895ac71.js",
+    "runtime-main.js.map": "/YN-RandomNumber/static/js/runtime-main.8895ac71.js.map",
+    "static/js/2.f2d533f7.chunk.js": "/YN-RandomNumber/static/js/2.f2d533f7.chunk.js",
+    "static/js/2.f2d533f7.chunk.js.map": "/YN-RandomNumber/static/js/2.f2d533f7.chunk.js.map",
+    "index.html": "/YN-RandomNumber/index.html",
+    "precache-manifest.e5dcd6fa028f484e587ca8785c777c68.js": "/YN-RandomNumber/precache-manifest.e5dcd6fa028f484e587ca8785c777c68.js",
+    "service-worker.js": "/YN-RandomNumber/service-worker.js",
+    "static/css/main.ebf87862.chunk.css.map": "/YN-RandomNumber/static/css/main.ebf87862.chunk.css.map",
+    "static/js/2.f2d533f7.chunk.js.LICENSE.txt": "/YN-RandomNumber/static/js/2.f2d533f7.chunk.js.LICENSE.txt",
+    "static/media/math.png": "/YN-RandomNumber/static/media/math.19ad2786.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8895ac71.js",
+    "static/js/2.f2d533f7.chunk.js",
+    "static/css/main.ebf87862.chunk.css",
+    "static/js/main.ada98ccd.chunk.js"
+  ]
+}
