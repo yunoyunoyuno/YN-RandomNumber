@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ecfd83533a695f43b89b7bed10464047",
+    "revision": "b671ce772c6e31e481d47b104b466506",
     "url": "/YN-RandomNumber/index.html"
   },
   {
-    "revision": "7a9c9332f0e0083df6a6",
+    "revision": "b4faef61c0a1a7043eb2",
     "url": "/YN-RandomNumber/static/css/main.ebf87862.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/YN-RandomNumber/static/js/2.f2d533f7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7a9c9332f0e0083df6a6",
-    "url": "/YN-RandomNumber/static/js/main.25d0a0c2.chunk.js"
+    "revision": "b4faef61c0a1a7043eb2",
+    "url": "/YN-RandomNumber/static/js/main.e522a6e1.chunk.js"
   },
   {
     "revision": "db11ebd07271c878458b",
@@ -25,6 +25,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "19ad278675393aba977501c41d770d50",
-    "url": "/YN-RandomNumber/static/media/math.19ad2786.png"
+    "url": "/YN-RandomNumber/static/media/Math.19ad2786.png"
   }
 ]);
